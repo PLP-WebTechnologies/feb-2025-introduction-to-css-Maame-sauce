@@ -1,0 +1,29 @@
+ /* Selector 1: Class selector */
+.main-heading {
+  color: #2c3e50;
+  font-family: 'Arial', sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
+
+/* Selector 2: ID selector */
+#intro-text {
+  color: #555;
+  font-family: 'Georgia', serif;
+  margin: 20px;
+}
+
+/* Selector 3: Element selector */
+img {
+  width: 300px;
+  border: 5px solid #ccc;
+  padding: 10px;
+  margin: 20px auto;
+  display: block;
+}
+
+/* Extra: Class for a content box */
+.content-box {
+    
+}
+  border: 2px solid
